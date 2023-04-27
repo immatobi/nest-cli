@@ -1,0 +1,4 @@
+[generate commands]
+- nest generate module messages (don't include the word "module")
+- nest generate controller messages/messages --flat ("flat" here means not to create a 'controller' folder)
+- nest g module modulename
